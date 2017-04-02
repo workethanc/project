@@ -1,11 +1,11 @@
 ## Project Using Express and NodeJS
 
-##Global install
+## Global install
 ```
  - npm install -g babel-cli webpack webpack-dev-server nodemon
 ```
 
-##Local install
+## Local install
 ```
  - npm install --save react-router
  - npm install --save-dev style-loader css-loader
