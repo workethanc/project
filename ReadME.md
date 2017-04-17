@@ -13,5 +13,5 @@
 ```
 ## NodeJS npm install
 ```
- - npm install express-session
+ - npm install express-session bcryptjs 
 ```
