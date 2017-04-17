@@ -7,7 +7,7 @@
 
 ## Local install
 ```
- - npm install --save react-router
+ - npm install --save react-router@3.0.0
  - npm install --save-dev style-loader css-loader
  - npm install --save axios react-addons-update react-router react-timeago redux react-redux redux-thunk
 ```
