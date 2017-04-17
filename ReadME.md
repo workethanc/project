@@ -17,5 +17,5 @@
 ```
 ## CSS
 ```
-  - Materializecss (http://materializecss.com/)
+ -  npm install materialize-css ::> Materializecss (http://materializecss.com/)
 ```
